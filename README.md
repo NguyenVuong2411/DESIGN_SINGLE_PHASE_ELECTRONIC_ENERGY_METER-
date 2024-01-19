@@ -37,3 +37,4 @@ Hoạt động
 - Timer đếm đủ số lượng xung tương ứng với 0.25Wh thì sẽ lặp tức ngắt để đảo trạng thái LED và tăng số Wh thêm 0.25 đơn vị. Vì vậy, chu kỳ LED sáng và tắt sẽ tương ứng với 0.5Wh.
 - Timer thứ 2 sẽ thực hiện ngắt để lưu dữ liệu vào giá trị Wh vào FLASH và gửi giá trị dòng điện và Wh đến ESP8266 thông qua UART để hiển thị lên web.
 
+Link Video Demo: https://drive.google.com/file/d/120e9Vy7E5JAveWMTcmhampzS1fTwQ8PU/view?usp=sharing
